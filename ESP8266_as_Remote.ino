@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <ESP8266WebServer.h>
 #include <ArduinoJson.h>
+#include "values.h"
 #include "config.h"
 #include "wifi.h"
 #include "request.h"
